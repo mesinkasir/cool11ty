@@ -1,6 +1,6 @@
 {
   "title": "Static Website",
-  "url": "https://example.com/",
+  "url": "https://statisweb.pages.dev/",
   "language": "en",
   "description": "Pembuatan website terbaru dengan generator static site modern eleventy 11ty SEO",
   "cover": "https://www.11ty.dev/img/favicon.png",
@@ -8,11 +8,11 @@
     "subtitle": "Solusi mesin kasir online modern untuk bisnis toko minimarket dan restoran cafe rumah makan.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://statisweb.pages.dev/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://statisweb.pages.dev/feed/feed.json"
   },
   "author": {
     "name": "axcora technology",
