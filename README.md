@@ -1,3 +1,1 @@
-# mesinkasironlinepos
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/mesinkasironlinepos)
+# Cool11ty New modern eleventy blog
