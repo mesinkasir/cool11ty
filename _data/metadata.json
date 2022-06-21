@@ -4,6 +4,7 @@
   "language": "en",
   "description": "Pembuatan website terbaru dengan generator static site modern eleventy 11ty SEO",
   "cover": "https://www.11ty.dev/img/favicon.png",
+  "googleverification": "WH5yK5pEky5qND2FOW3_hvm3VlPkjRtV731y81BcsTc",
   "feed": {
     "subtitle": "Solusi mesin kasir online modern untuk bisnis toko minimarket dan restoran cafe rumah makan.",
     "filename": "feed.xml",
