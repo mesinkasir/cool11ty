@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap');
+body {
+  background-color: rgb(19, 20, 2);
+}
+.navi {
+  background-color: rgb(247, 49, 59);
+  font-family: 'Ubuntu Condensed', sans-serif;
+  border-radius: 50px 50px;
+}
+.postlist-link,
+.linki {
+  color: rgb(221, 213, 220);
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+.postlist-date {
+  font-size: 20px;
+  color: rgb(189, 177, 187);
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+.post-tag {
+  font-size: 12px;
+  color: rgb(221, 213, 220);
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+.product {
+  font-size: 18px;
+  color: rgb(221, 213, 220);
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+.black {
+  background-color: rgb(19, 20, 2);
+}
+.title {
+  font-family: 'Rubik Moonrocks', cursive;
+  font-size: 160px;
+  color: rgb(221, 213, 220);
+}
+h1 {
+  font-family: 'Rubik Moonrocks', cursive;
+  font-size: 60px;
+  color: rgb(221, 213, 220);
+}
+h2 {
+  color: rgb(221, 213, 220);
+  font-family: 'Rubik Moonrocks', cursive;
+  font-size: 50px;
+}
+h3 {
+  color: rgb(221, 213, 220);
+  font-family: 'Rubik Moonrocks', cursive;
+  font-size: 40px;
+}
+h4 {
+  color: rgb(221, 213, 220);
+  font-family: 'Rubik Moonrocks', cursive;
+  font-size: 30px;
+}
+ul,
+li,
+.postlist,
+p {
+  color: rgb(221, 213, 220);
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 24px;
+}
+a,
+a:visited,
+a:active,
+a:hover,
+a:link {
+  color: rgb(247, 49, 59);
+  text-decoration: none;
+}
+.danger {
+  background-color: rgb(247, 49, 59);
+  border-radius: 50px 50px;
+  padding: 20px;
+}
+.dark {
+  background-color: rgb(17, 27, 83);
+  border-radius: 50px 50px;
+  padding: 20px;
+}
+.posting {
+  background-color: rgb(54, 17, 102);
+  border-radius: 50px 50px;
+  padding: 20px;
+}
+.images {
+  border-radius: 50px 50px;
+}
+img {
+  max-width: 100%;
+}
+.blur {
+  filter: opacity(80%);
+}
+footer {
+  text-align: center;
+}
