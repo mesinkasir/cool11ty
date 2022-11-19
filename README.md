@@ -5,7 +5,7 @@ Read Documentation : [https://www.hockeycomputindo.com/2022/06/new-eleventy-11ty
 Run demo [https://statisweb.pages.dev/](https://statisweb.pages.dev/)
 
 Run landing demo [https://mesinkasironline.pages.dev/](https://mesinkasironline.pages.dev/)
-
+ 
 ---
 
 ![free download new eleventy web template](<https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVVCUC6PzqC4AOolJ72RgfoFZ2N2FK12ZurOk7j9PaaW5tNHYfFjMUZ2fe56t-_hNUb1t2s9j1O4I_7hVcbP-J8nl3I09BH4cHIrT1VwDPR2H_TR7v1wNFFWgx9DcWyG04Qozn_1QGXVpr9NfvrSlJV62zlVDkfXbfigYrWQj5yhW0-BLtGwJqrAyHOg/s2172/new%20elventy%2011ty%20modern%20web%20static%20site%20geenerator%20free%20download%20gratis%20souce%20code%20(1).png>)
