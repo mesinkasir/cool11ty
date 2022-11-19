@@ -17,10 +17,10 @@
   "author": {
     "name": "axcora",
     "email": "axcora@gmail.com",
-    "url": "https://website.axcora.com/"
+    "url": "https://www.fiverr.com/creativitas/design-your-modern-website-using-jekyll"
   },
   "license": "MIT",
-  "homepage": "https://www.hockeycomputindo.com",
+  "homepage": "https://www.hockeycomputindo.com/2022/06/new-eleventy-11ty-web-modern-template.html",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0-canary.14",
     "@11ty/eleventy-navigation": "^0.3.3",
