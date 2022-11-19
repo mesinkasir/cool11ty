@@ -9,7 +9,7 @@
     <p>{{ post.data.description }}</p></a>
     {% for tag in post.data.tags | filterTagList %}
       {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-      <a href="{{ tagUrl | url }}" class="post-tag text-light">#{{ tag }}</a>
+      <a href="{{ tagUrl | url }}" class="post-tag text-white">#{{ tag }}</a>
     {% endfor %}
   </div>
 {% endfor %}

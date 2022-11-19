@@ -5,7 +5,7 @@ templateClass: tmpl-post
 <div class="p-3">
 <h2 class="mb-3">{{ title }}</h2>
 <div class="p-3">
-<h3><a href="{{page.url}}" class="text-light">{{ description }}</a></h3>
+<h3><a href="{{page.url}}" class="text-white">{{ description }}</a></h3>
 <time datetime="{{ page.date | htmlDateString }}" class="postlist-date">{{ page.date | readableDate }}</time><br/>
 {%- for tag in tags | filterTagList -%}
 {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
