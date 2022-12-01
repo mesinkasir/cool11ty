@@ -30,6 +30,12 @@
   "download5": "https://github.com/mesinkasir/eleventyblog/archive/refs/heads/master.zip",
   "demo5": "https://eleventyblog.vercel.app/",
   "doc5": "https://www.hockeycomputindo.com/2022/03/eleventy-bootstrap-web-template-seo.html",
+  "free6": "Shop11ty",
+  "freeimg6": "https://11tyshop.pages.dev/img/shop11ty.webp",
+  "freecontent6": "Headless Online Shop built with 11ty ecwid eleventy static site generator free download.",
+  "download6": "https://github.com/mesinkasir/11ty-shop/archive/refs/heads/master.zip",
+  "demo6": "https://11tyshop.pages.dev/",
+  "doc6": "https://www.hockeycomputindo.com/2022/11/built-online-shop-website-with-static.html",
   "wa": "https://wa.me/6285646104747?text=info eleventy ",
   "pro1": "Dark Beauty",
   "proimg1": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaq8OEnBtuHqC1eRPWJ2zzhzpwC3iP1yB4UMO9gXcTSg7pqNJrRmyhgKBt3ynXn0b3Ky0Twc7fRKHLT6Z1XVhIx8pMdXMZmc7CLznH5sU6YqXeA1tWRU9CkZ5Wj33Ooay3Ts7WgVkbFooPSux8Ct9z2dCaHfcstVtG87GB-xKPFa5SdgPO2El7FxNvHQ/s675/premium%20eleventy%2011ty%20template%20themes%20(4).png",
@@ -46,5 +52,13 @@
   "pro4": "Bootstrap Premium",
   "proimg4": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaYJhAJZszSY1JItCV5uksYfteXsGW_BY2Qpe0-WHinhXBuOamZeLSzROAXutYCLk_aUBdO_-wGdKvlYoO0eZcPwla7fJHxJpinSSbh97aQNZsQ74e2wKDkPt_7dGKecqkiMP-SXT7mrOBEc7577dttoPCiSjEMUbsHh_mFdM4SxjW-8Nwh8RtPbfG-Q/s770/premium%20eleventy%2011ty%20template%20themes%20(3).png",
   "procontent4": "Premium simple bootstrap template for eleventy 11ty",
-  "prodemo4": "https://bootstrap11ty.pages.dev/"
+  "prodemo4": "https://bootstrap11ty.pages.dev/",
+  "pro5": "Premium Online Shop 11ty",
+  "proimg5": "https://11tyshop.pages.dev/img/proonlineshop.webp",
+  "procontent5": "Premium blast fast headless online shop eleventy 11ty",
+  "prodemo5": "https://tokokasir.vercel.app/",
+  "pro6": "Pro Online Shop 11ty",
+  "proimg6": "https://11tyshop.pages.dev/img/premiumonlineshop.webp",
+  "procontent6": "Premium Pro version headless online shop eleventy 11ty",
+  "prodemo6": "https://mesinkasironline.vercel.app/"
 }
